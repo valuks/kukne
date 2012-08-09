@@ -1,0 +1,437 @@
+Augļi un ogas 	  	  	  	  	  	  	 
+    Āboli 	49 	205 	0 	12 	0 	0 	
+    Āboli, žāvēti 	280 	1172 	1 	65 	1 	0 	
+    Ābolu uzputenis 	78 	326 	0 	19 	0 	0 	
+    Ananāss 	50 	121 	1 	13 	0 	0 	
+    Apelsīni 	41 	172 	1 	9 	0 	0 	
+    Aprikozes 	49 	205 	1 	11 	0 	0 	
+    Aprikozes, žāvētas 	308 	1289 	5 	70 	0 	0 	
+    Arbūzs 	30 	126 	1 	8 	0 	0 	
+    Avenes 	37 	155 	1 	8 	0 	0 	
+    Banāni 	89 	373 	1 	23 	0 	0 	
+    Brūklenes 	41 	172 	1 	10 	0 	0 	
+    Bumbieri 	57 	238 	1 	13 	0 	0 	
+    Citroni 	25 	105 	1 	5 	0 	0 	
+    Dateles, žāvētas 	275 	1151 	2 	65 	0 	0 	
+    Dzērvenes 	46 	193 	0 	12 	0 	0 	
+    Ērkšķogas 	41 	172 	1 	9 	0 	0 	
+    Granātāboli 	68 	285 	1 	17 	0 	0 	
+    Greipfrūti 	33 	138 	1 	7 	0 	0 	
+    Hurma 	70 	293 	1 	19 	0 	0 	
+    Jāņogas 	41 	172 	1 	9 	0 	0 	
+    Kaisles auglis 	97 	406 	2 	23 	1 	0 	
+    Kazenes 	41 	172 	1 	9 	0 	0 	
+    Ķirši, saldie 	57 	238 	1 	13 	0 	0 	
+    Kivi 	53 	222 	1 	12 	0 	0 	
+    Mandarīni 	37 	155 	1 	8 	0 	0 	
+    Mango 	65 	272 	1 	17 	0 	0 	
+    Mellenes 	43 	180 	1 	10 	0 	0 	
+    Melone 	34 	142 	1 	9 	0 	0 	
+    Olīves, marinētas 	134 	561 	1 	0 	14 	0 	
+    Papaja 	33 	138 	0 	8 	0 	0 	
+    Persiki 	45 	188 	1 	10 	0 	0 	
+    Plūmes 	46 	193 	1 	11 	0 	0 	
+    Plūmes, žāvētas 	250 	1046 	2 	59 	0 	0 	
+    Rozīnes 	271 	1134 	2 	64 	0 	0 	
+    Upenes 	53 	222 	1 	12 	0 	0 	
+    Vīģes, žāvētas 	267 	1117 	4 	61 	0 	0 	
+    Vīnogas 	70 	293 	1 	16 	0 	0 	
+    Zemenes 	33 	138 	1 	7 	0 	0 	
+  	  	  	  	  	  	  	 
+Dārzeņi 	  	  	  	  	  	  	 
+    Artišoki 	25 	105 	1 	5 	0 	0 	
+    Avokado 	160 	670 	2 	9 	15 	0 	
+    Baklažāns 	24 	100 	1 	6 	0 	0 	
+    Bambusa asni 	33 	138 	3 	5 	0 	0 	
+    Bietes 	43 	180 	2 	10 	0 	0 	
+    Brokoļi 	29 	121 	3 	4 	0 	0 	
+    Burkāni 	29 	121 	1 	6 	0 	0 	
+    Cigoriņi 	12 	50 	1 	2 	0 	0 	
+    Endīvijas 	12 	50 	1 	2 	0 	0 	
+    Fenheļi 	31 	130 	1 	7 	0 	0 	
+    Gurķis 	15 	63 	1 	4 	0 	0 	
+    Kabači 	16 	67 	2 	2 	0 	0 	
+    Kāļi 	36 	151 	1 	8 	0 	0 	
+    Kāposti 	16 	67 	1 	3 	0 	0 	
+    Kartupeļi 	77 	322 	2 	18 	0 	0 	
+    Ķīniešu kāposti 	12 	50 	1 	2 	0 	0 	
+    Ķiploki 	139 	581 	6 	28 	0 	0 	
+    Ķirbis 	25 	105 	1 	6 	0 	0 	
+    Kolrābji 	21 	88 	2 	3 	0 	0 	
+    Kukurūza 	86 	360 	3 	19 	1 	0 	
+    Mārrutki 	48 	201 	1 	11 	1 	0 	
+    Paprika dzeltenā 	27 	113 	1 	6 	0 	0 	
+    Paprika sarkanā 	31 	130 	1 	6 	0 	0 	
+    Paprika zaļā 	20 	84 	1 	6 	0 	0 	
+    Pētersīļi 	37 	155 	3 	6 	0 	0 	
+    Puravi 	25 	105 	2 	4 	0 	0 	
+    Rabarberi 	18 	67 	1 	3 	0 	0 	
+    Redīsi 	16 	67 	1 	3 	0 	0 	
+    Rožu kāposti 	50 	209 	4 	6 	1 	0 	
+    Salāti 	15 	63 	1 	3 	0 	0 	
+    Sarkanie kāporti 	31 	130 	1 	7 	0 	0 	
+    Savojas kāposti 	21 	88 	2 	3 	0 	0 	
+    Selerija 	25 	105 	1 	5 	0 	0 	
+    Selerijas sakne 	38 	160 	1 	9 	0 	0 	
+    Sīpoli 	41 	172 	1 	9 	0 	0 	
+    Skābēti kāposti 	25 	105 	2 	4 	0 	0 	
+    Sparģeļi 	20 	84 	2 	4 	0 	0 	
+    Spināti 	23 	98 	3 	4 	0 	0 	
+    Tomāti 	16 	67 	1 	3 	0 	0 	
+    Tomātu biezenis 	45 	188 	2 	9 	0 	0 	
+    Tomātu kečups 	107 	448 	2 	24 	0 	0 	
+    Ziedkāposti 	25 	105 	2 	5 	0 	0 	
+  	  	  	  	  	  	  	 
+Dzērieni alk. 	  	  	  	  	  	  	 
+    Alus 	43 	180 	0 	4 	0 	0 	
+    Alus gaišais 	29 	121 	0 	2 	0 	0 	
+    Baltais galda vīns 	82 	343 	0 	3 	0 	0 	
+    Baltais saldais vīns 	160 	670 	0 	14 	0 	0 	
+    Brendijs 	240 	1004 	0 	0 	0 	0 	
+    Degvīns 	231 	967 	0 	0 	0 	0 	
+    Dzirkstošais vīns 	90 	376 	0 	3 	0 	0 	
+    Liķieris 	308 	1280 	0 	32 	0 	0 	
+    Rums 	231 	967 	0 	0 	0 	0 	
+    Šampanietis 	76 	318 	0 	2 	0 	0 	
+    Sarkanvīns 	85 	356 	0 	3 	0 	0 	
+    Vermuts 	122 	508 	0 	6 	0 	0 	
+    Viskijs 	250 	1047 	0 	0 	0 	0 	
+  	  	  	  	  	  	  	 
+Dzērieni bezalk. 	  	  	  	  	  	  	 
+    Ābolu kompots 	85 	356 	0 	24 	0 	0 	
+    Ābolu sula 	38 	159 	0.5 	9 	0 	0 	
+    Ananāsu sula, konservēta 	60 	251 	1 	16 	0 	0 	
+    Apelsīnu sula, konservēta 	42 	176 	1 	10 	0 	0 	
+    Apelsīnu sula, svaigi spiesta 	45 	188 	1 	10 	0 	0 	
+    Aprikožu sula, svaigi spiesta 	56 	234 	0.5 	14 	0 	0 	
+    Biešu sula, svaigi spiesta 	42 	176 	1 	10 	0 	0 	
+    Burkānu sula, svaigi spiesta 	28 	117 	1 	6 	0 	0 	
+    Cidoniju sula 	45 	188 	0.5 	10 	0 	0 	
+    Citronu sula, konservēta 	21 	87 	0 	6 	0 	0 	
+    Citronu sula, svaigi spiesta 	25 	105 	0 	9 	0 	0 	
+    Coca-cola 	44 	182 	0 	12 	0 	0 	
+    Dzeltenā kaisles augļa sula, svaigi spiesta 	60 	251 	1 	14 	0 	0 	
+    Granātābola sula 	64 	268 	0 	14 	0 	0 	
+    Greipfrūtu sula, konservēta 	46 	193 	1 	11 	0 	0 	
+    Greipfrūtu sula, svaigi spiesta 	39 	163 	0 	9 	0 	0 	
+    Jāņogu sula ar cukuru, konservēta 	151 	632 	0 	39 	0 	0 	
+    Jāņogu sula, svaiga 	46 	193 	0 	12 	0 	0 	
+    Kafija 	2 	9 	0 	0 	0 	0 	
+    Kafija (pulveris, 2in1) 	29 	120 	0.5 	3 	2 	0 	
+    Kafija (pulveris, 3in1) 	391 	1637 	2 	74 	12 	0 	
+    Karstā šokolāde (no pulvera) 	111 	465 	2 	23 	1 	0 	
+    Ķiršu sula, svaigi spiesta 	23 	96 	0 	9 	0 	0 	
+    Kvass 	34 	142 	0 	8 	0 	0 	
+    Laima sula, svaigi spiesta 	25 	105 	0 	8 	0 	0 	
+    Mandarīnu sula, svaigi spiesta 	43 	180 	0 	10 	0 	0 	
+    Persiku sula, konservēta 	44 	184 	1 	12 	0 	0 	
+    Persiku sula, svaiga 	66 	276 	0.3 	17 	0 	0 	
+    Plūmju sula, konservēta 	58 	243 	1 	16 	0 	0 	
+    Sarkanā kaisles augļa sula, svaigi spiesta 	51 	214 	0 	14 	0 	0 	
+    Sprite 	44 	182 	0 	12 	0 	0 	
+    Tēja 	1 	4 	0 	0 	0 	0 	
+    Tomātu sula, svaigi spiesta 	19 	80 	1 	4 	0 	0 	
+    Upeņu sula 	40 	167 	0.5 	8 	0 	0 	
+    Vīnogu sula, konservēta 	61 	255 	1 	15 	0 	0 	
+    Vīnogu sula, svaigi spiesta 	54 	226 	1 	14 	0 	0 	
+  	  	  	  	  	  	  	 
+Gaļa un gaļas produkti 	  	  	  	  	  	  	 
+    Aknu desa 	326 	1365 	14 	2 	28 	158 	
+    Asins desa 	379 	1586 	15 	1 	35 	120 	
+    Briežu gaļa 	111 	465 	22 	0 	3 	18 	
+    Ceptas cūkas ribiņas 	255 	1068 	27 	0 	15 	73 	
+    Cepts šķiņķis 	541 	2265 	37 	1 	42 	110 	
+    Cīsiņi 	360 	1500 	8 	0 	34 	70 	
+    Cūkas aknas 	134 	561 	21 	2 	4 	301 	
+    Cūkas fileja 	143 	599 	21 	0 	6 	59 	
+    Cūkas gaļa, liesa 	148 	620 	19 	0 	7 	67 	
+    Cūkas kuņģis 	299 	1251 	14 	0 	26 	50 	
+    Cūkas stilbs 	189 	791 	12 	0 	15 	55 	
+    Cūkas tauki 	665 	2784 	6 	0 	71 	77 	
+    Cūkgaļas desa 	304 	1273 	15 	0 	27 	72 	
+    Cūkgaļas kakla karbonāde 	263 	1100 	12 	0 	23 	55 	
+    Cūkgaļas karbonāde 	149 	623 	16 	0 	9 	55 	
+    Cūkgaļas sardeles 	354 	1475 	6 	0 	34 	60 	
+    Cūkgaļas sitenis 	105 	439 	21 	0 	2 	68 	
+    Doktora desa 	198 	825 	11 	0 	16 	65 	
+    Jēra gaļa 	276 	1156 	15 	0 	24 	65 	
+    Jēra gaļa, liesa 	101 	423 	17 	0 	3 	213 	
+    Liellopa aknas 	135 	565 	20 	4 	4 	250 	
+    Liellopa gaļa, liesa 	155 	649 	21 	0 	7 	275 	
+    Liellopa gaļas fileja 	155 	649 	23 	0 	6 	66 	
+    Liellopa mēle 	224 	938 	15 	4 	16 	87 	
+    Liellopa sirds 	112 	469 	18 	0 	4 	124 	
+    Liellopa tauki 	902 	3776 	  	0 	100 	109 	
+    Liellopu sardeles 	280 	1158 	9 	0 	27 	60 	
+    Pelmeņi, gaļas 	240 	1004 	11 	25 	12 	50 	
+    Piena desa 	232 	968 	11 	0 	20 	60 	
+    Pīles gaļa ar ādu 	404 	1691 	11 	0 	39 	76 	
+    Pīles gaļa bez ādas 	132 	553 	18 	0 	6 	77 	
+    Salami desa 	407 	1704 	23 	2 	34 	79 	
+    Sardeles ar sieru 	376 	1571 	13 	0 	36 	60 	
+    Šķiņķis, cauraudzis 	198 	829 	11 	13 	16 	90 	
+    Teļa aknas 	140 	586 	20 	3 	5 	334 	
+    Teļa fileja 	163 	682 	19 	0 	9 	79 	
+    Teļa gaļa 	144 	603 	19 	0 	7 	82 	
+    Teļa niere 	99 	414 	16 	1 	3 	364 	
+    Tītara gaļa 	119 	498 	22 	0 	3 	65 	
+    Truša gaļa 	136 	569 	20 	0 	6 	57 	
+    Vīnes desiņa 	230 	963 	11 	3 	19 	87 	
+    Vistas cepetis 	239 	1001 	27 	0 	14 	88 	
+    Vistas fileja 	116 	485 	22 	0 	3 	55 	
+    Vistu spārniņi 	222 	929 	18 	0 	16 	77 	
+    Vistu stilbiņi 	161 	674 	19 	0 	9 	81 	
+    Žāvēta desa 	320 	1340 	12 	2 	29 	58 	
+    Žāvētas cūkas ribiņas 	266 	1113 	15 	0 	22 	70 	
+    Žāvēts šķiņķis 	335 	1402 	16 	0 	29 	70 	
+    Zoss gaļa 	371 	1553 	16 	0 	34 	80 	
+  	  	  	  	  	  	  	 
+Graudu produkti 	  	  	  	  	  	  	 
+    Auzu pārslas 	300 	1268 	11 	50 	6 	0 	
+    Galetes griķu, Dr. Nature 	376 	1573 	13 	78 	1 	0 	
+    Griķi 	335 	1392 	13 	62 	3 	0 	
+    Griķu pārslas 	329 	1392 	13 	62 	3 	0 	
+    Grūbas 	324 	1357 	9 	74 	1 	0 	
+    Kukurūza 	341 	1427 	9 	65 	4 	0 	
+    Kukurūzas ciete 	357 	1494 	0 	87 	0 	0 	
+    Kukurūzas pārslas 	382 	1598 	8 	83 	1 	0 	
+    Kviešu milti 	358 	1498 	11 	74 	1 	0 	
+    Kviešu pārslas 	310 	1316 	12 	63 	1 	0 	
+    Kviešu putraimi 	295 	1235 	12 	69 	3 	0 	
+    Linsēklas 	439 	1837 	26 	13 	30 	0 	
+    Makaroni 	376 	1573 	13 	72 	3 	0 	
+    Manna 	326 	1364 	11 	74 	0.7 	0 	
+    Miežu putraimi 	322 	1444 	10 	72 	1.3 	0 	
+    Piecgraudu pārslas 	296 	1253 	11 	57 	3 	0 	
+    Prosa 	339 	1418 	12 	69 	1 	0 	
+    Rīsi 	342 	1451 	8 	75 	2 	0 	
+    Rīsu milti 	355 	1485 	7 	75 	2 	0 	
+    Rīsu nūdeles 	370 	1550 	7 	80 	2 	0 	
+    Rudzi 	277 	1159 	9 	54 	1 	0 	
+    Rudzu milti 	300 	1255 	9 	62 	1 	0 	
+    Rudzu pārslas 	281 	1193 	10 	56 	2 	0 	
+    Rupjo miltu makaroni 	352 	1473 	15 	64 	3 	0 	
+  	  	  	  	  	  	  	 
+Kartupeļi 	  	  	  	  	  	  	 
+    Frī kartupeļi 	267 	1117 	4 	34 	12 	0 	
+    Kartupeļi ar mizu 	70 	293 	2 	15 	0 	0 	
+    Kartupeļi bez mizas 	86 	360 	2 	19 	0 	0 	
+    Kartupeļi cepti 	115 	481 	2 	17 	4 	5 	
+    Kartupeļu čipsi 	526 	2198 	5 	60 	30 	0 	
+    Kartupeļu pankūkas 	260 	1088 	4 	23 	16 	0 	
+    Karutpeļu biezenis 	106 	444 	3 	16 	3 	8 	
+  	  	  	  	  	  	  	 
+Maizes produkti 	  	  	  	  	  	  	 
+    Baltmaize 	275 	1151 	9 	56 	1 	0 	
+    Jauktu graudu maize (rudzi un kvieši) 	251 	1050 	7 	52 	1 	0 	
+    Kārtainās mīklas izstrādājumi 	435 	1820 	8 	30 	30 	72 	
+    Kliju sausmaizītes 	350 	1466 	12 	74 	1 	0 	
+    Kviešu maize 	326 	1364 	10 	65 	2 	0 	
+    Kviešu pilngraudu maize 	235 	983 	8 	47 	1 	0 	
+    Lapzemes kviešu maize 	198 	839 	7 	41 	1 	0 	
+    Pļavas sēklu maize 	311 	1310 	11 	44 	10 	0 	
+    Rauga mīklas izstrādājumi 	262 	1096 	9 	39 	7 	26 	
+    Rīvmaize 	358 	1498 	13 	72 	1 	0 	
+    Rudzu maize 	212 	898 	7 	44 	1 	0 	
+    Rudzu pilngraudu maize 	227 	950 	7 	46 	1 	0 	
+    Saldskābmaize 	227 	963 	7 	48 	1 	0 	
+    Sāls standziņas 	399 	1669 	11 	75 	5 	70 	
+    Saulespuķu sēklu maize 	314 	1319 	10 	44 	11 	0 	
+    Tumšā sēklu maize 	302 	1272 	9 	47 	9 	0 	
+  	  	  	  	  	  	  	 
+Olas 	  	  	  	  	  	  	 
+    Ola, vistas 	143 	599 	13 	1 	10 	423 	
+    Olas baltums 	49 	205 	11 	1 	0 	0 	
+    Olas dzeltenums 	317 	1327 	19 	4 	27 	1234 	
+    Paipalu ola 	158 	662 	13 	0 	11 	844 	
+    Pīles ola 	185 	775 	13 	1 	14 	884 	
+    Tītara ola 	171 	716 	14 	1 	12 	933 	
+    Zoss ola 	185 	775 	14 	1 	13 	852 	
+  	  	  	  	  	  	  	 
+Pākšaugi 	  	  	  	  	  	  	 
+    Cūku pupas 	60 	251 	5 	11 	0 	0 	
+    Lēcas 	337 	1410 	24 	56 	1 	0 	
+    Limas pupiņas 	272 	1138 	19 	45 	1 	0 	
+    Pupiņas 	260 	1089 	21 	52 	2 	0 	
+    Sojas pupiņas 	473 	1979 	37 	24 	24 	0 	
+    Sojas pupiņu asni 	54 	226 	5 	6 	1 	0 	
+    Tofu 	78 	326 	7 	3 	4 	0 	
+    Zirņi, pelēkie 	341 	1427 	22 	59 	1 	0 	
+    Zirņi, šķeltie 	334 	1417 	22 	58 	1.3 	0 	
+    Zirnīši, zaļie 	81 	339 	5 	14 	0 	0 	
+  	  	  	  	  	  	  	 
+Piena produkti 	  	  	  	  	  	  	 
+    Biezpiena sieriņš Kārums ar riekstiem 	352 	1474 	9.7 	25.8 	23.1 	50 	
+    Biezpiena sieriņš Kārums ar šokolādes gab. 	363 	1520 	9.2 	28 	23.5 	50 	
+    Biezpiena sieriņš Kārums Vanilla 	347 	1453 	10.2 	24.5 	22.9 	50 	
+    Biezpiens 	232 	971 	14 	3 	18 	50 	
+    Biezpiens vājpiena 	88 	330 	18 	0 	0.5 	7 	
+    Jogurta krēms 	152 	643 	3.2 	16.5 	8 	12 	
+    Jogurts 	122 	511 	2.8 	12 	7 	11 	
+    Jogurts piecgraudu 	98 	415 	3.1 	15.4 	2 	5 	
+    Kausētais siers 	286 	1197 	11 	2 	26 	80 	
+    Kausētais siers Light 	138 	578 	13 	4 	8 	25 	
+    Kefīrs 	56 	234 	3 	4 	3.2 	9 	
+    Kefīrs 2% 	46 	192 	3 	4 	2 	5 	
+    Koncentrēts piens ar cukuru 	321 	1344 	8 	54 	9 	34 	
+    Krējums 15% 	196 	820 	3 	4 	15 	60 	
+    Krējums 25% 	248 	1038 	3 	3 	24 	80 	
+    Piens 0,5% 	40 	167 	4 	5 	0.5 	3 	
+    Piens 2,5% 	52 	218 	2.8 	4.7 	2.5 	8 	
+    Piens 3,8% 	72 	301 	4 	5 	3.8 	12 	
+    Putukrējums 	300 	1255 	2 	3 	30 	110 	
+    Saldais krējums 35% 	337 	1411 	2.5 	0 	30 	120 	
+    Sešgraudu jogurts ar āboliem, bumbieriem 	39 	163 	3.2 	8 	0.05 	1 	
+    Siers Holandes 	352 	1461 	26 	0 	26 	90 	
+    Siers Krievijas 	353 	1477 	23 	0 	29 	100 	
+    Siers Mozzarella 	300 	1256 	22 	2 	22 	79 	
+    Siers Valmieras 	330 	1370 	25 	0 	24 	77 	
+    Sviests 	740 	3041 	1 	0 	83 	240 	
+  	  	  	  	  	  	  	 
+Rieksti 	  	  	  	  	  	  	 
+    Brazīlijas rieksti 	656 	2747 	14 	7 	67 	0 	
+    Indijas rieksti 	575 	2408 	18 	30 	46 	0 	
+    Kastaņi 	194 	812 	3 	42 	1 	0 	
+    Kokosrieksti 	402 	1682 	4 	10 	37 	0 	
+    Lazdu rieksti 	663 	2776 	14 	13 	67 	0 	
+    Mandeles 	589 	2466 	18 	16 	49 	0 	
+    Pistācijas rieksti 	587 	2458 	21 	12 	49 	0 	
+    Saulespuķu sēklas 	599 	2506 	27 	8 	49 	0 	
+    Sezama sēklas 	551 	2305 	21 	0 	50 	0 	
+    Valrieksti 	624 	2613 	15 	14 	63 	0 	
+    Zemesrieksti 	578 	2420 	26 	18 	49 	0 	
+  	  	  	  	  	  	  	 
+Salāti 	  	  	  	  	  	  	 
+    Grieķu salāti 	82 	342 	5 	4 	5 	0 	
+    Krabju nūjiņu salāti ar rīsiem 	156 	654 	9 	8 	11 	25 	
+    Olivjē salāti (Rasols) 	167 	699 	6 	12 	11 	39 	
+    Tunča salāti 	187 	783 	16 	9 	9 	13 	
+    Vinegrets 	35 	147 	2 	7 	0.5 	0 	
+  	  	  	  	  	  	  	 
+Saldumi un uzkodas 	  	  	  	  	  	  	 
+    Buljona pīrādziņš 	180 	754 	5 	9 	14 	63 	
+    Cīsiņš mīklā 	277 	1159 	10 	12 	22 	60 	
+    Cukurs baltais 	387 	1620 	0 	100 	0 	0 	
+    Cukurs brūnais 	380 	1591 	0 	98 	0 	0 	
+    Eklērs 	262 	1097 	6 	24 	16 	127 	
+    Ievārījums 	278 	1164 	0 	69 	0 	0 	
+    Kakao krēms DUO 	550 	2295 	2 	59 	34 	0 	
+    Karameles 	401 	1695 	3 	83 	6 	7 	
+    Kēkss ar rozīnēm 	405 	1696 	5 	53 	19 	1 	
+    Leibniz sviesta cepumi 	433 	1812 	6 	76 	12 	33 	
+    Mandeļu cepumi 	387 	1619 	5 	35 	24 	1 	
+    Marcipāns 	499 	2088 	8 	57 	25 	0 	
+    Marmelāde 	266 	1114 	0 	70 	0 	0 	
+    Medus 	304 	1273 	0 	82 	0 	0 	
+    Popkorns 	500 	2093 	9 	57 	28 	0 	
+    Pumperniķelis 	235 	983 	6 	49 	1 	0 	
+    Saldējums plombīra 	231 	963 	3 	21 	15 	65 	
+    Saldējums šokolādes 	216 	904 	4 	28 	11 	34 	
+    Šerbets 	144 	603 	1 	30 	2 	1 	
+    Siera bumbas (kukurūzas čipši) 	535 	2250 	9 	54 	32 	0 	
+    Sīrups augļu/ogu 	268 	1122 	0 	67 	0 	0 	
+    Sīrups šokolādes 	350 	1465 	5 	63 	9 	1 	
+    Smilšu cepumi 	433 	1812 	8 	75 	10 	80 	
+    Šokolāde baltā 	539 	2257 	6 	59 	32 	21 	
+    Šokolāde melnā 	520 	2177 	5 	59 	32 	7 	
+    Šokolāde piena 	505 	2114 	4 	60 	34 	0 	
+    Šokolādes trifeles 	170 	710 	2 	21 	9 	25 	
+    Torte augļu 	324 	1357 	3 	62 	9 	5 	
+    Torte medus 	316 	1319 	4 	65 	6 	35 	
+    Torte Napoleons 	364 	1537 	6 	37 	22 	25 	
+    Torte šokolādes 	367 	1573 	4 	55 	16 	42 	
+    Vafeles 	485 	2029 	5 	68 	20 	130 	
+    Zefīrs 	322 	1346 	1 	78 	0 	0 	
+  	  	  	  	  	  	  	 
+Sausās brokastis 	  	  	  	  	  	  	 
+    AXA Honeyroasted Muesli Chocolate 	440 	1830 	9 	64 	16 	0 	
+    AXA Honeyroasted Muesli Fruits 	440 	1840 	9 	62 	17 	0 	
+    AXA Honeyroasted Muesli Nuts 	460 	1910 	10 	61 	10 	0 	
+    AXA Honeyroasted Muesli Strawberry 	430 	1820 	9 	63 	16 	0 	
+    AXA Honeyroasted Muesli Super 	440 	1840 	9.5 	62 	17 	0 	
+    Kelloggs Coco Pops 	387 	1641 	5 	85 	3 	0 	
+    Kelloggs Corn Flakes 	361 	1511 	7 	87 	1 	0 	
+    Kelloggs Frosties 	371 	1578 	4.5 	87 	0.6 	0 	
+    Kelloggs SPECIAL K Fruit & Yogurt 	381 	1595 	7 	86 	3 	0 	
+    Kelloggs SPECIAL K Low Carb Lifestyle 	349 	1461 	34 	48 	10 	0 	
+    Kelloggs SPECIAL K Vanilla Almond 	405 	1696 	7 	83 	5 	0 	
+    Nestle Fitness 	363 	1533 	8 	79 	1 	0 	
+    Nestle Fitness And Yoghurt 	391 	1652 	8 	77 	6 	0 	
+  	  	  	  	  	  	  	 
+Sēnes 	  	  	  	  	  	  	 
+    Apšu bekas 	32 	134 	3 	4 	1 	0 	
+    Apšu bekas, žāvētas 	239 	1000 	35 	40 	5 	0 	
+    Austersēnes 	43 	180 	3 	6 	1 	0 	
+    Baravikas 	30 	126 	4 	3 	2 	0 	
+    Baravikas, žāvētas 	150 	628 	21 	28 	5 	0 	
+    Bērzlapes 	16 	67 	2 	2 	1 	0 	
+    Bērzu bekas 	34 	142 	2 	1 	1 	0 	
+    Bērzu bekas, žāvētas 	233 	975 	24 	14 	9 	0 	
+    Celmenes 	22 	92 	2 	1 	3 	0 	
+    Gailenes 	22 	92 	2 	2 	1 	0 	
+    Krimildes 	17 	71 	2 	1 	1 	0 	
+    Lāčpurnis 	17 	71 	3 	0 	0 	0 	
+    Rudmiese 	17 	71 	2 	3 	1 	0 	
+    Šampinjoni 	27 	205 	4 	1 	1 	0 	
+    Sviesta beka 	24 	100 	2 	2 	1 	0 	
+  	  	  	  	  	  	  	 
+Tauki un eļļas 	  	  	  	  	  	  	 
+    Cūku tauki 	930 	3891 	0 	0 	100 	86 	
+    Kokosriekstu eļļa 	925 	3870 	1 	0 	99 	1 	
+    Kukurūzas eļļa 	930 	3891 	0 	0 	100 	0 	
+    Majonēze (80% tauku) 	765 	3201 	2 	3 	80 	140 	
+    Majonēze gavēnim Francis 	241 	1008 	1 	3.2 	25 	0 	
+    Margarīns 	748 	3130 	1 	2 	80 	0 	
+    Margarīns ar zemu tauku saturu 	397 	1661 	6 	1 	40 	0 	
+    Olīvu eļļa 	930 	3891 	0 	0 	100 	1 	
+    Saulespuķu eļļa 	930 	3891 	0 	0 	100 	0 	
+    Sojas eļļa 	921 	3853 	0 	0 	99 	2 	
+  	  	  	  	  	  	  	 
+Zivis un zivju produkti 	  	  	  	  	  	  	 
+    Asaris 	94 	394 	19 	0 	2 	42 	
+    Austeres 	59 	247 	5 	6 	2 	25 	
+    Brētliņas (fileja, eļļā) 	291 	1218 	12 	0 	27 	110 	
+    Bute 	91 	381 	19 	0 	1 	48 	
+    Forele 	148 	620 	21 	0 	7 	58 	
+    Garneles 	106 	444 	20 	1 	6 	152 	
+    Gliemezis 	90 	377 	16 	2 	1 	50 	
+    Heks 	90 	377 	18 	0 	1 	67 	
+    Kalmāri 	92 	385 	16 	3 	1 	233 	
+    Karpa 	127 	532 	18 	0 	6 	66 	
+    Kaviārs 	252 	1055 	25 	4 	18 	588 	
+    Lasis 	142 	595 	20 	0 	6 	55 	
+    Līdaka 	88 	368 	19 	0 	1 	39 	
+    Menca 	82 	342 	18 	0 	1 	43 	
+    Nēģis 	166 	695 	15 	0 	12 	200 	
+    Omārs 	90 	377 	19 	0 	1 	95 	
+    Pangasija 	90 	377 	14 	0 	4 	58 	
+    Plekste 	91 	381 	19 	0 	1 	48 	
+    Pollaks 	92 	385 	19 	0 	1 	71 	
+    Reņģe 	129 	540 	16 	0 	7 	84 	
+    Salaka 	97 	406 	18 	0 	2 	70 	
+    Sardīnes 	208 	871 	25 	0 	11 	142 	
+    Siļķe 	158 	662 	18 	0 	9 	60 	
+    Skumbrija 	205 	858 	19 	0 	14 	70 	
+    Store 	105 	440 	16 	0 	4 	60 	
+    Surimi nūjiņas ar krabju garšu 	134 	564 	7 	18 	4 	45 	
+    Tuncis 	144 	603 	23 	0 	5 	38 	
+    Vēzis 	77 	322 	16 	0 	1 	114 	
+    Zandarts 	72 	301 	16 	0 	1 	79 	
+    Zobenzivs 	121 	507 	20 	0 	4 	39 	
+    Zutis 	184 	770 	18 	0 	12 	126 	
+  	  	  	  	  	  	  	 
+Zupas 	  	  	  	  	  	  	 
+    Borščs 	111 	465 	7 	12 	4 	4 	
+    Gaļas zupa ar dārzeņiem 	35 	147 	3 	2 	2 	4 	
+    Piena zupa ar dārzeņiem 	53 	222 	2 	7 	2 	10 	
+    Piena zupa ar makaroniem 	77 	322 	3 	10 	3 	10 	
+    Piena zupa ar rīsiem 	69 	289 	2 	9 	3 	10 	
+    Puķkāpostu biezzupa 	33 	138 	3 	5 	1 	0 	
+    Sēņu biezzupa 	87 	364 	2 	2 	8 	0 	
+    Sēņu zupa 	72 	301 	1 	5 	5 	0 	
+    Soļanka (gaļas) 	76 	318 	6 	1 	5 	4 	
+    Soļanka (zivs) 	41 	172 	3 	1 	2 	5 	
+    Zirņu biezzupa 	57 	239 	3 	5 	3 	0 	
+    Zirņu zupa ar žāvētu gaļu 	68 	285 	4 	6 	4 	4 	
+    Zivju zupa 	61 	255 	4 	3 	4 	7 	
+  	  	  	  	  	  	 

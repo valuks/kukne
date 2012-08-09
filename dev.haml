@@ -1,0 +1,58 @@
+!!! 5
+%html{'lang':'lg'}
+    %head
+        %meta{'http-equiv':'Content-Type', 'content':'text/html;charset=utf-8'}
+        %title Ilvys kukne
+        %meta{'name':'author', 'content':'Jurs & Vaļuks'}
+        %meta{'name':'description', 'content':'Ilvys kukne'}
+        %meta{'name': 'viewport', 'content': 'width=device-width, initial-scale=1.0'}
+        / %link{'rel':'icon','href':'/favicon.ico','type':'image/x-icon'}
+        %link{'rel': 'stylesheet','href': 'static/css/layout.css'}
+        /[if lt IE 9]
+            %script{'src':'http://html5shim.googlecode.com/svn/trunk/html5.js'}
+    %body
+        .container-fluid
+            %header
+                %h1 <a href="#">Ilvys kukne</a>
+            .row-fluid
+                .span3
+                    #nav-products.well
+
+                .span9
+                    #food
+
+            %footer
+                %p &copy; Jurs i Valera 2012
+
+        %script{'src': 'http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'}
+        %script{'src': 'static/js/underscore-min.js'}
+        %script{'src': 'static/js/backbone-min.js'}
+        %script{'src': 'static/js/backbone.localStorage-min.js'}
+        :javascript
+            var App = {};
+            App.events = {};
+            App.language = 'lg';
+            _.extend(App.events, Backbone.Events);
+
+        %script{'src': 'static/js/bone/locale.js'}
+        %script{'src': 'static/js/bone/views.js'}
+
+        %script{'src': 'static/js/data/locale.lg.js'}
+
+        %script{'src': 'static/js/bone/product/models.js'}
+        %script{'src': 'static/js/bone/product/views.js'}
+
+        %script{'src': 'static/js/bone/food/models.js'}
+        %script{'src': 'static/js/bone/food/views.js'}
+
+        %script{'src': 'static/js/bone/router.js'}
+
+        %script{'src': 'static/js/data/products.lg.js'}
+
+        :javascript
+            (function(){
+                App.products = new App.CollectionProducts(__products);
+                App.foods = new App.CollectionFoods();
+                new App.Router();
+                Backbone.history.start();
+            })();

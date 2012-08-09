@@ -1,0 +1,514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"produ",
+				"products"
+			],
+			[
+				"in",
+				"incorect"
+			],
+			[
+				"Qu",
+				"QuestionList"
+			],
+			[
+				"Q",
+				"QuestionList"
+			],
+			[
+				"ori",
+				"original_id"
+			],
+			[
+				"origin",
+				"image_original"
+			],
+			[
+				"as",
+				"Answer"
+			],
+			[
+				"qu",
+				"question_list"
+			],
+			[
+				"esta",
+				"establishments"
+			],
+			[
+				"append",
+				"appendTo"
+			],
+			[
+				"appe",
+				"appendEvent"
+			],
+			[
+				"new",
+				"newGroup"
+			],
+			[
+				"establi",
+				"establishment-new"
+			],
+			[
+				"re",
+				"respond"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "static/sass/layout.sass",
+			"settings":
+			{
+				"buffer_size": 961,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/test/index.haml",
+			"settings":
+			{
+				"buffer_size": 1489,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/test/bone/product.coffee",
+			"settings":
+			{
+				"buffer_size": 3616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/test/bone/food.coffee",
+			"settings":
+			{
+				"buffer_size": 2285,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/bone/food/models.coffee",
+			"settings":
+			{
+				"buffer_size": 773,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/bone/food/views.coffee",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/js/bone/product/views.coffee",
+			"settings":
+			{
+				"buffer_size": 1436,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 348.0,
+		"selected_items":
+		[
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/product/models.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/food/views.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/food/models.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/sass/bootstrap/_variables.scss",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/sass/bootstrap/_navs.scss",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/product/views.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product.js",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/source/produkti.txt",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/router.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/dev.haml",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product/models.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/production.sh",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/test.haml",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/config.rb",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/questions/management/commands/collect_questions.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/questions/models.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/templates/question_detail.html",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/templates/main.html",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/templates/index.html",
+		"/home/bambis/Programming/experiments/python/twitterfollow/getkeys.py",
+		"/home/bambis/Downloads/index.html",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/urls.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/urls.py~",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/templates/question_list.html",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/settings.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/templates/500.html",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/templates/404.html",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/local_settings.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/questions/admin.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/requirements.txt",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/test/models.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/questions/management/commands/__init__.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/csn/questions/management/__init__.py",
+		"/home/bambis/Programming/Projects/csn.com.lv/csn/questions/models.py",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/bone/views.js",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/bone/models.js",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/bone/establishment/models.coffee",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/lib/backbone.js",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/test/bone/mealtime.js",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/bone/router.coffee",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/sass/edit.sass",
+		"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/sass/bootstrap.css.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/bambis/Programming/Projects/povars/gudraispavars.lv/gp/gp/static/d/js/test/bone"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"products",
+			"	",
+			"')\n",
+			"static",
+			"	",
+			"router.coffee",
+			"and",
+			"print",
+			"''\n",
+			"\n            {% if page_obj.has_previous() %}\n              <li class=\"previous\">\n                <a href='/{{ active_type.url }}/page-/'>← Iepriekšējā</a>\n              </li>\n            {% endif %}",
+			"'),\n",
+			"\\\n",
+			"response",
+			"cid",
+			"Model",
+			"append",
+			"v",
+			");\n",
+			"'\n",
+			"\n\n  toggleActive: (e)->\n    model = @collection.getByCid(@_getContainerId($(e.target)))\n    model.save({'active': !model.get('active')})",
+			"']);\n",
+			"\n        [200, {\"Content-Type\": \"application/json\"},\n          '{\"people\": 2, \"id\": 2, \"name\": \"A2\", \"active\": false, \"personal\": false}']",
+			"\n    v.$('ol>li:eq(0)>.establishment-active input').click();\n    ok(v.$('ol>li:eq(0)>.establishment-active input').is(':checked'));\n    this.server.respond();\n    ok(!v.$('ol>li:eq(0)>.establishment-active input').is(':checked'));\n    equal(App.establishments.get(3).groups.get(2).get('active'), false);",
+			"respondW",
+			"'\n",
+			"');\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"    ",
+			"..",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "static/sass/layout.sass",
+					"settings":
+					{
+						"buffer_size": 961,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								223,
+								223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "static/test/index.haml",
+					"settings":
+					{
+						"buffer_size": 1489,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								981,
+								981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/test/bone/product.coffee",
+					"settings":
+					{
+						"buffer_size": 3616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1614,
+								1614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "static/test/bone/food.coffee",
+					"settings":
+					{
+						"buffer_size": 2285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1518,
+								1518
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "static/js/bone/food/models.coffee",
+					"settings":
+					{
+						"buffer_size": 773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "static/js/bone/food/views.coffee",
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "static/js/bone/product/views.coffee",
+					"settings":
+					{
+						"buffer_size": 1436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								550,
+								550
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true
+}

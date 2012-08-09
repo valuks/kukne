@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang='lg'>
+    <head>
+        <meta content='text/html;charset=utf-8' http-equiv='Content-Type' />
+        <title>Ilvys kukne</title>
+        <meta content='Jurs & Vaļuks' name='author' />
+        <meta content='Ilvys kukne' name='description' />
+        <meta content='width=device-width, initial-scale=1.0' name='viewport' />
+<!-- %link{'rel':'icon','href':'/favicon.ico','type':'image/x-icon'} -->
+        <link href='static/css/layout.css' rel='stylesheet' />
+<!--[if lt IE 9]>
+            <script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script>
+        <![endif]-->    </head>
+    <body>
+        <div class='container-fluid'>
+            <header>
+                <h1><a href="#">Ilvys kukne</a></h1>
+            </header>
+            <div class='row-fluid'>
+                <div class='span3'>
+                    <div id='nav-products' class='well'></div>
+                </div>
+                <div class='span9'>
+                    <div id='food'></div>
+                </div>
+            </div>
+            <footer>
+                <p>&copy; Jurs i Valera 2012</p>
+            </footer>
+        </div>
+        <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
+        <script src='static/js/underscore-min.js'></script>
+        <script src='static/js/backbone-min.js'></script>
+        <script src='static/js/backbone.localStorage-min.js'></script>
+<script type='text/javascript'>
+// <![CDATA[
+            var App = {};
+            App.events = {};
+            App.language = 'lg';
+            _.extend(App.events, Backbone.Events);
+// ]]>
+</script>
+        <script src='static/js/bone/locale.js'></script>
+        <script src='static/js/bone/views.js'></script>
+        <script src='static/js/data/locale.lg.js'></script>
+        <script src='static/js/bone/product/models.js'></script>
+        <script src='static/js/bone/product/views.js'></script>
+        <script src='static/js/bone/food/models.js'></script>
+        <script src='static/js/bone/food/views.js'></script>
+        <script src='static/js/bone/router.js'></script>
+        <script src='static/js/data/products.lg.js'></script>
+<script type='text/javascript'>
+// <![CDATA[
+            (function(){
+                App.products = new App.CollectionProducts(__products);
+                App.foods = new App.CollectionFoods();
+                new App.Router();
+                Backbone.history.start();
+            })();
+// ]]>
+</script>
+    </body>
+</html>

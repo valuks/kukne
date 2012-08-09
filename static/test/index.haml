@@ -1,0 +1,48 @@
+!!! 5
+%html{'lang':'lg'}
+    %head
+        %meta{'http-equiv':'Content-Type', 'content':'text/html;charset=utf-8'}
+        %link{'rel': 'stylesheet','href': '../css/layout.css'}
+        %link{'rel': 'stylesheet','href': 'vendor/qunit-git.css'}
+        /[if lt IE 9]
+            %script{'src':'http://html5shim.googlecode.com/svn/trunk/html5.js'}
+
+        %script{'src': 'http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'}
+        %script{'src': '../js/underscore-min.js'}
+        %script{'src': '../js/backbone.js'}
+        %script{'src': '../js/backbone.localStorage-min.js'}
+        :javascript
+            var App = {};
+            App.events = {};
+            App.language = 'lg';
+            _.extend(App.events, Backbone.Events);
+
+        %script{'src': '../js/bone/locale.js'}
+        %script{'src': '../js/bone/views.js'}
+
+        %script{'src': '../js/data/locale.lg.js'}
+
+        %script{'src': '../js/bone/product/models.js'}
+        %script{'src': '../js/bone/product/views.js'}
+
+        %script{'src': '../js/bone/food/models.js'}
+        %script{'src': '../js/bone/food/views.js'}
+
+        %script{'src': '../js/bone/router.js'}
+
+        %script{:src => "vendor/qunit-git.js"}
+        %script{:src => "vendor/sinon-1.3.4.js"}
+        %script{:src => "vendor/sinon-qunit-1.0.0.js"}
+        %script{:src => "vendor/qunit-assertion.js"}
+
+      %body
+        %h1#qunit-header Ilvys kukne tests
+        %h2#qunit-banner
+        #qunit-testrunner-toolbar
+        %h2#qunit-userAgent
+        %ol#qunit-tests
+        #qunit-fixture test markup, will be hidden
+
+        %script{:src => "bone/product.js"}
+        %script{:src => "bone/food.js"}
+
