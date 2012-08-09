@@ -8,7 +8,7 @@ App.ViewFoodsNavigation = class Foods extends Backbone.View
 	"""
 
 	events:
-		'click .delete': (e)-> @collection.remove($(e.target).closest('li').attr('data-pk')) 
+		'click .delete': (e)-> @collection.get($(e.target).closest('li').attr('data-pk')).destroy() 
 
 	initialize: ->
 		@appendEvent @collection, 'all', ()=>
@@ -56,13 +56,19 @@ App.ViewFood = class Food extends Backbone.View
 	"""
 
 	events: 
-		'click .form-actions button': ->
-			@trigger 'save'
+		'keypress .form-actions input': (e)-> @save() if e.keyCode is 13
 
+		'click .form-actions button': 'save'
+			
 	initialize: ->
 		@appendEvent @model.products, 'add', (m)=> @_addProduct(m)
 		@appendEvent @model.products, 'remove', (m)=> @_removeProduct(m)
 		@appendEvent @model.products, 'all', (m)=> @update()
+
+	save: ->
+		@model.set({'name': @$('.form-actions input').val()})
+		@trigger 'save'
+
 
 	getNewName: ->
 		name = this.model.get('name') || ''

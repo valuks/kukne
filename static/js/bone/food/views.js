@@ -20,7 +20,7 @@
 
     Foods.prototype.events = {
       'click .delete': function(e) {
-        return this.collection.remove($(e.target).closest('li').attr('data-pk'));
+        return this.collection.get($(e.target).closest('li').attr('data-pk')).destroy();
       }
     };
 
@@ -47,9 +47,12 @@
     Food.prototype.template = _.template("<h1><%= this.model.get('name') || '' %></h1>\n<table class='table table-condensed'>\n	<thead>\n		<tr>\n			<th><%= _l('Title') %></th>\n			<th><%= _l('Weight') %></th>\n			<th><%= _l('Calories') %></th>\n			<th><%= _l('Protein') %></th>\n			<th><%= _l('Hydrates') %></th>\n			<th><%= _l('Fat') %></th>\n			<th><%= _l('Cholesterol') %></th>\n			<th></th>\n		</tr>\n	</thead>\n	<tbody>\n	</tbody>\n	<tfoot>\n		<tr>\n			<td></td>\n			<td class='product-total-weight'></td>\n			<td class='product-total-calories'></td>\n			<td class='product-total-protein'></td>\n			<td class='product-total-hydrates'></td>\n			<td class='product-total-fat'></td>\n			<td class='product-total-cholesterol'></td>\n			<td></td>\n		</tr>\n	</tfoot>\n</table>\n<div class=\"form-actions\">\n	<div class=\"input-append\">\n		<input type='text' value='<%= this.getNewName() %>' />\n		<button class=\"btn btn-primary\" type=\"submit\"><%= _l('Save changes') %></button>\n	</div>\n</div>");
 
     Food.prototype.events = {
-      'click .form-actions button': function() {
-        return this.trigger('save');
-      }
+      'keypress .form-actions input': function(e) {
+        if (e.keyCode === 13) {
+          return this.save();
+        }
+      },
+      'click .form-actions button': 'save'
     };
 
     Food.prototype.initialize = function() {
@@ -63,6 +66,13 @@
       return this.appendEvent(this.model.products, 'all', function(m) {
         return _this.update();
       });
+    };
+
+    Food.prototype.save = function() {
+      this.model.set({
+        'name': this.$('.form-actions input').val()
+      });
+      return this.trigger('save');
     };
 
     Food.prototype.getNewName = function() {

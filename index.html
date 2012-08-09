@@ -19,6 +19,9 @@
             <div class='row-fluid'>
                 <div class='span3'>
                     <div id='nav-products' class='well'></div>
+                    <div id='nav-food' class='well'>
+                        <h4>Recepti</h4>
+                    </div>
                 </div>
                 <div class='span9'>
                     <div id='food'></div>
@@ -54,6 +57,7 @@
             (function(){
                 App.products = new App.CollectionProducts(__products);
                 App.foods = new App.CollectionFoods();
+                App.foods.fetch();
                 new App.Router();
                 Backbone.history.start();
             })();

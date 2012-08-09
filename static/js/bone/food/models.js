@@ -151,6 +151,8 @@
       return Foods.__super__.constructor.apply(this, arguments);
     }
 
+    Foods.prototype.localStorage = new Store("foods");
+
     Foods.prototype.model = Food;
 
     return Foods;

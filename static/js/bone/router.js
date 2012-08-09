@@ -13,17 +13,16 @@
     }
 
     Router.prototype.routes = {
-      '': 'index',
+      '': 'food',
       'food/:id': 'food'
     };
 
     Router.prototype.food = function(id) {
-      var model,
+      var attributes, model,
         _this = this;
       if (id == null) {
         id = '';
       }
-      console.info('food', id);
       if (!this._productsNavigation) {
         this._productsNavigation = new App.ViewProductsNavigation({
           collection: App.products
@@ -31,10 +30,21 @@
         this._productsNavigation.render();
         $('#nav-products').append(this._productsNavigation.$el);
       }
+      this._productsNavigation.deactivate();
+      if (!this._foodNavigation) {
+        this._foodNavigation = new App.ViewFoodsNavigation({
+          collection: App.foods
+        });
+        this._foodNavigation.render();
+        $('#nav-food').append(this._foodNavigation.$el);
+      }
       if (this._food) {
         this._food.remove();
       }
-      model = (id ? App.foods.get(id).clone() : new App.foods.model);
+      attributes = id ? App.foods.get(id).attributes : {};
+      delete attributes['id'];
+      model = new App.foods.model(attributes);
+      this._productsNavigation.activate(model.products.pluck('product'));
       this._food = new App.ViewFood({
         model: model
       });
@@ -48,13 +58,16 @@
           'product': id
         });
       });
-      return this._food.appendEvent(this._productsNavigation, 'deactive', function(id) {
+      this._food.appendEvent(this._productsNavigation, 'deactive', function(id) {
         return _this._food.model.removeProduct(id);
       });
-    };
-
-    Router.prototype.index = function() {
-      return this.food();
+      return this._food.appendEvent(this._food, 'save', function() {
+        App.foods.add(_this._food.model);
+        _this._food.model.save();
+        return _this.navigate('food/' + _this._food.model.id, {
+          trigger: true
+        });
+      });
     };
 
     return Router;

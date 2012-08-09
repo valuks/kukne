@@ -46,6 +46,6 @@ class Food extends Backbone.Model
 
 
 App.CollectionFoods = class Foods extends Backbone.Collection
-	# localStorage: new Store("foods")
+	localStorage: new Store("foods")
 
 	model: Food

@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"_foo",
+				"_foodNavigation"
+			],
+			[
+				"append",
+				"appendEvent"
+			],
+			[
+				"pro",
+				"products"
+			],
+			[
 				"produ",
 				"products"
 			],
@@ -40,10 +52,6 @@
 				"establishments"
 			],
 			[
-				"append",
-				"appendTo"
-			],
-			[
 				"appe",
 				"appendEvent"
 			],
@@ -67,7 +75,7 @@
 			"file": "static/sass/layout.sass",
 			"settings":
 			{
-				"buffer_size": 961,
+				"buffer_size": 1336,
 				"line_ending": "Unix"
 			}
 		},
@@ -75,31 +83,31 @@
 			"file": "static/test/index.haml",
 			"settings":
 			{
-				"buffer_size": 1489,
+				"buffer_size": 1666,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "static/test/bone/product.coffee",
+			"file": "dev.haml",
 			"settings":
 			{
-				"buffer_size": 3616,
+				"buffer_size": 2184,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "static/test/bone/food.coffee",
+			"file": "/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/index.html",
 			"settings":
 			{
-				"buffer_size": 2285,
+				"buffer_size": 1071,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "static/js/bone/food/models.coffee",
+			"file": "static/js/bone/router.coffee",
 			"settings":
 			{
-				"buffer_size": 773,
+				"buffer_size": 1531,
 				"line_ending": "Unix"
 			}
 		},
@@ -107,15 +115,7 @@
 			"file": "static/js/bone/food/views.coffee",
 			"settings":
 			{
-				"buffer_size": 224,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "static/js/bone/product/views.coffee",
-			"settings":
-			{
-				"buffer_size": 1436,
+				"buffer_size": 3749,
 				"line_ending": "Unix"
 			}
 		}
@@ -152,15 +152,24 @@
 	},
 	"file_history":
 	[
-		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/product/models.coffee",
-		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product.coffee",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/food/views.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/food.coffee",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/food/models.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/data/locale.lg.js",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/views.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/product/views.coffee",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/view.js",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/food/views.js",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/locale.js",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/convert.py",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/source/produkti.txt",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/sass/layout.sass",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/index.haml",
+		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/product/models.coffee",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/sass/bootstrap/_variables.scss",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/sass/bootstrap/_navs.scss",
-		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/product/views.coffee",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product.js",
-		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/source/produkti.txt",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/js/bone/router.coffee",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/dev.haml",
 		"/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/kukne/static/test/bone/product/models.coffee",
@@ -213,6 +222,13 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"	",
+			"well",
+			".delete",
+			"arguments",
+			"on",
+			"',\n",
+			"Hydrates",
 			"products",
 			"	",
 			"')\n",
@@ -259,7 +275,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -267,20 +283,21 @@
 					"file": "static/sass/layout.sass",
 					"settings":
 					{
-						"buffer_size": 961,
+						"buffer_size": 1336,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								223,
-								223
+								746,
+								746
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -294,15 +311,15 @@
 					"file": "static/test/index.haml",
 					"settings":
 					{
-						"buffer_size": 1489,
+						"buffer_size": 1666,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								981,
-								981
+								600,
+								600
 							]
 						],
 						"settings":
@@ -319,24 +336,25 @@
 				},
 				{
 					"buffer": 2,
-					"file": "static/test/bone/product.coffee",
+					"file": "dev.haml",
 					"settings":
 					{
-						"buffer_size": 3616,
+						"buffer_size": 2184,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1614,
-								1614
+								900,
+								900
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Rails/Ruby Haml.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -346,24 +364,25 @@
 				},
 				{
 					"buffer": 3,
-					"file": "static/test/bone/food.coffee",
+					"file": "/home/bambis/Programming/raccoons.lv/darbi/termi.lv/tomilva/index.html",
 					"settings":
 					{
-						"buffer_size": 2285,
+						"buffer_size": 1071,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1518,
-								1518
+								833,
+								833
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -373,23 +392,24 @@
 				},
 				{
 					"buffer": 4,
-					"file": "static/js/bone/food/models.coffee",
+					"file": "static/js/bone/router.coffee",
 					"settings":
 					{
-						"buffer_size": 773,
+						"buffer_size": 1531,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								323,
-								323
+								674,
+								674
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -402,41 +422,15 @@
 					"file": "static/js/bone/food/views.coffee",
 					"settings":
 					{
-						"buffer_size": 224,
+						"buffer_size": 3749,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								162,
-								162
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "static/js/bone/product/views.coffee",
-					"settings":
-					{
-						"buffer_size": 1436,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								550,
-								550
+								1630,
+								1630
 							]
 						],
 						"settings":
@@ -445,7 +439,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 540.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
